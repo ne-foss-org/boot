@@ -5,7 +5,7 @@ For the BCSA reference, see: [BCSA](https://www.ne-app.eu/rfc/0001.txt)
 
 ## Abstract
 
-NeBoot is a cross-platform open implementation of the EPM firmware written in C, designed with modularity and portability in mind.
+BCSABoot is a cross-platform open implementation of the EPM firmware (under BCSA) written in C, designed with modularity and portability in mind.
 
 ## Requirements:
 
@@ -26,4 +26,4 @@ Please fork, and clone the repository.
 
 And then contribute back your changes to `develop`.
 
-###### Copyright 2024-2026, Amlal El Mahrouss, licensed under Apache 2.0.
+###### Copyright 2024-2026, Amlal El Mahrouss and Ne.app, licensed under Apache 2.0.
